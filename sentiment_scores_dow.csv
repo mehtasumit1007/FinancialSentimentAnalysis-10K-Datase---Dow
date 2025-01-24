@@ -1,0 +1,348 @@
+Company,Year,Average_Score
+American Express Co,2023,0.057669323
+American Express Co,2022,0.054587586
+American Express Co,2021,0.051130344
+American Express Co,2020,0.052585551
+American Express Co,2019,0.050296368
+American Express Co,2018,0.050248995
+American Express Co,2017,0.046157638
+American Express Co,2016,0.043826749
+American Express Co,2015,0.049013806
+American Express Co,2014,0.048787301
+American Express Co,2013,0.050195584
+American Express Co,2012,0.048404314
+Amgen Inc,2023,0.062474983
+Amgen Inc,2022,0.062606531
+Amgen Inc,2021,0.061235799
+Amgen Inc,2020,0.053046766
+Amgen Inc,2019,0.06476715
+Amgen Inc,2018,0.060071862
+Amgen Inc,2017,0.059834942
+Amgen Inc,2016,0.057181575
+Amgen Inc,2015,0.052431255
+Amgen Inc,2014,0.057395605
+Amgen Inc,2013,0.08520536
+Amgen Inc,2012,0.052450878
+Apple Inc,2022,0.059811664
+Apple Inc,2021,0.060990911
+Apple Inc,2020,0.061781525
+Apple Inc,2019,0.060798965
+Apple Inc,2018,0.064941856
+Apple Inc,2017,0.062385772
+Apple Inc,2016,0.067134437
+Apple Inc,2015,0.068458006
+Apple Inc,2014,0.065690129
+Apple Inc,2013,0.06565095
+Apple Inc,2012,0.067312552
+Apple Inc,2011,0.06792283
+Boeing Co,2023,0.049150369
+Boeing Co,2022,0.054254228
+Boeing Co,2021,0.051794396
+Boeing Co,2020,0.058685378
+Boeing Co,2019,0.059639199
+Boeing Co,2018,0.053535271
+Boeing Co,2017,0.075701661
+Boeing Co,2016,0.052481871
+Boeing Co,2015,0.053766185
+Boeing Co,2014,0.052987412
+Boeing Co,2013,0.049640654
+Boeing Co,2012,0.044050721
+Caterpillar Inc,2023,0.058070468
+Caterpillar Inc,2022,0.055887519
+Caterpillar Inc,2021,0.046601308
+Caterpillar Inc,2020,0.049474152
+Caterpillar Inc,2019,0.056652077
+Caterpillar Inc,2018,0.051160355
+Caterpillar Inc,2017,0.049515397
+Caterpillar Inc,2016,0.042842579
+Caterpillar Inc,2015,0.038983694
+Caterpillar Inc,2014,0.039194567
+Caterpillar Inc,2013,0.047862351
+Caterpillar Inc,2012,0.058558131
+Cisco Systems Inc,2022,0.065110271
+Cisco Systems Inc,2021,0.064942734
+Cisco Systems Inc,2020,0.064091376
+Cisco Systems Inc,2019,0.06400332
+Cisco Systems Inc,2018,0.059715967
+Cisco Systems Inc,2017,0.059797981
+Cisco Systems Inc,2016,0.057942963
+Cisco Systems Inc,2015,0.05757441
+Cisco Systems Inc,2014,0.057934917
+Cisco Systems Inc,2013,0.061225536
+Cisco Systems Inc,2012,0.053965261
+Cisco Systems Inc,2011,0.052990772
+Chevron Corp,2023,0.017609138
+Chevron Corp,2022,0.023417202
+Chevron Corp,2021,0.025172576
+Chevron Corp,2020,0.004934519
+Chevron Corp,2019,0.008149469
+Chevron Corp,2018,0.005382109
+Chevron Corp,2017,0.001920158
+Chevron Corp,2016,0.000700443
+Chevron Corp,2015,0.000648775
+Chevron Corp,2014,0.00296511
+Chevron Corp,2013,0.006443151
+Chevron Corp,2012,0.005434719
+Goldman Sachs Group Inc,2023,0.04735208
+Goldman Sachs Group Inc,2022,0.047886504
+Goldman Sachs Group Inc,2021,0.050288608
+Goldman Sachs Group Inc,2020,0.048279032
+Goldman Sachs Group Inc,2019,0.049527141
+Goldman Sachs Group Inc,2018,0.051590117
+Goldman Sachs Group Inc,2017,0.05898883
+Goldman Sachs Group Inc,2016,0.085971431
+Goldman Sachs Group Inc,2015,0.060923638
+Goldman Sachs Group Inc,2014,0.063875948
+Goldman Sachs Group Inc,2013,0.056777163
+Goldman Sachs Group Inc,2012,0.051444806
+Home Depot Inc,2023,0.061966014
+Home Depot Inc,2022,0.062651754
+Home Depot Inc,2021,0.069462876
+Home Depot Inc,2020,0.066210343
+Home Depot Inc,2019,0.06851937
+Home Depot Inc,2018,0.0684096
+Home Depot Inc,2017,0.055159343
+Home Depot Inc,2016,0.048235635
+Home Depot Inc,2015,0.047099763
+Home Depot Inc,2014,0.046496149
+Home Depot Inc,2013,0.050446284
+Home Depot Inc,2012,0.054072878
+Home Depot Inc,2011,0.048402329
+Honeywell International In,2023,0.048351202
+Honeywell International In,2022,0.050501034
+Honeywell International In,2021,0.047343517
+Honeywell International In,2020,0.041083321
+Honeywell International In,2019,0.043544175
+Honeywell International In,2018,0.034679137
+Honeywell International In,2017,0.038690202
+Honeywell International In,2016,0.039407748
+Honeywell International In,2015,0.041937399
+Honeywell International In,2014,0.03873222
+Honeywell International In,2013,0.03679796
+Honeywell International In,2012,0.038628858
+International Business Machines Corp,2023,0.022178083
+International Business Machines Corp,2022,0.02595159
+International Business Machines Corp,2021,0.031641889
+International Business Machines Corp,2020,0.051827501
+International Business Machines Corp,2019,0.058058794
+International Business Machines Corp,2018,0.066332621
+International Business Machines Corp,2017,0.066870394
+International Business Machines Corp,2016,0.073227817
+International Business Machines Corp,2015,0.085229515
+International Business Machines Corp,2014,0.078164164
+International Business Machines Corp,2013,0.073872038
+International Business Machines Corp,2012,0.072881178
+Intel Corp,2023,0.062210365
+Intel Corp,2022,0.063811146
+Intel Corp,2021,0.067514565
+Intel Corp,2020,0.071457001
+Intel Corp,2019,0.072179202
+Intel Corp,2018,0.061475742
+Intel Corp,2017,0.057619751
+Intel Corp,2016,0.063637747
+Intel Corp,2015,0.057898883
+Intel Corp,2014,0.063344231
+Intel Corp,2013,0.060778874
+Intel Corp,2012,0.065006058
+Johnson & Johnson,2023,0.047486447
+Johnson & Johnson,2022,0.046213157
+Johnson & Johnson,2021,0.039760214
+Johnson & Johnson,2020,0.040338254
+Johnson & Johnson,2019,0.040847812
+Johnson & Johnson,2018,0.044659975
+Johnson & Johnson,2017,0.04350169
+Johnson & Johnson,2016,0.046187238
+Johnson & Johnson,2015,0.04445619
+Johnson & Johnson,2014,0.042948474
+Johnson & Johnson,2013,0.040464931
+Johnson & Johnson,2012,0.052787328
+Coca-Cola Co,2023,0.067554633
+Coca-Cola Co,2022,0.069688344
+Coca-Cola Co,2021,0.06855389
+Coca-Cola Co,2020,0.067759459
+Coca-Cola Co,2019,0.065018555
+Coca-Cola Co,2018,0.064129825
+Coca-Cola Co,2017,0.069243623
+Coca-Cola Co,2016,0.070417897
+Coca-Cola Co,2015,0.069462745
+Coca-Cola Co,2014,0.069818065
+Coca-Cola Co,2013,0.06587209
+Coca-Cola Co,2012,0.071868602
+JPMorgan Chase & Co,2023,0.031615303
+JPMorgan Chase & Co,2022,0.033157364
+JPMorgan Chase & Co,2021,0.032365861
+JPMorgan Chase & Co,2020,0.038237009
+JPMorgan Chase & Co,2019,0.037957862
+JPMorgan Chase & Co,2018,0.035522798
+JPMorgan Chase & Co,2017,0.030053024
+JPMorgan Chase & Co,2016,0.029410008
+JPMorgan Chase & Co,2015,0.030115323
+JPMorgan Chase & Co,2014,0.027447568
+JPMorgan Chase & Co,2013,0.023329038
+JPMorgan Chase & Co,2012,0.024015519
+McDonald’s Corp,2023,0.066338175
+McDonald’s Corp,2022,0.066629546
+McDonald’s Corp,2021,0.060456382
+McDonald’s Corp,2020,0.066431127
+McDonald’s Corp,2019,0.058993374
+McDonald’s Corp,2018,0.062117641
+McDonald’s Corp,2017,0.061220272
+McDonald’s Corp,2016,0.05836488
+McDonald’s Corp,2015,0.057163637
+McDonald’s Corp,2014,0.061889411
+McDonald’s Corp,2013,0.069590177
+McDonald’s Corp,2012,0.062548612
+3M Co,2023,0.0478644
+3M Co,2022,0.043946696
+3M Co,2021,0.050685225
+3M Co,2020,0.051992428
+3M Co,2019,0.04897543
+3M Co,2018,0.050442417
+3M Co,2017,0.050236847
+3M Co,2016,0.049215573
+3M Co,2015,0.047978057
+3M Co,2014,0.052343344
+3M Co,2013,0.053282117
+Merck & Co Inc,2023,0.063638972
+Merck & Co Inc,2022,0.064427066
+Merck & Co Inc,2021,0.067954825
+Merck & Co Inc,2020,0.070343892
+Merck & Co Inc,2019,0.075130232
+Merck & Co Inc,2018,0.069686069
+Merck & Co Inc,2017,0.075958061
+Merck & Co Inc,2016,0.068538858
+Merck & Co Inc,2015,0.063764362
+Merck & Co Inc,2014,0.059450717
+Merck & Co Inc,2013,0.060179875
+Microsoft Corp,2023,0.059232025
+Microsoft Corp,2022,0.075507522
+Microsoft Corp,2021,0.075208813
+Microsoft Corp,2020,0.071064026
+Microsoft Corp,2019,0.072655227
+Microsoft Corp,2018,0.070855115
+Microsoft Corp,2017,0.068845753
+Microsoft Corp,2016,0.070003539
+Microsoft Corp,2015,0.063786742
+Microsoft Corp,2014,0.06243964
+Microsoft Corp,2013,0.066924939
+Microsoft Corp,2012,0.069671972
+Microsoft Corp,2011,0.066627637
+Nike Inc,2023,0.040577781
+Nike Inc,2022,0.043933319
+Nike Inc,2021,0.043004927
+Nike Inc,2020,0.041430671
+Nike Inc,2019,0.047446862
+Nike Inc,2018,0.047957056
+Nike Inc,2017,0.049409636
+Nike Inc,2016,0.055295244
+Nike Inc,2015,0.052933753
+Nike Inc,2014,0.056919609
+Nike Inc,2013,0.060299874
+Nike Inc,2012,0.067380963
+Nike Inc,2011,0.069314874
+Procter & Gamble Co,2023,0.059943289
+Procter & Gamble Co,2022,0.05486432
+Procter & Gamble Co,2021,0.056342497
+Procter & Gamble Co,2020,0.052391142
+Procter & Gamble Co,2019,0.051361537
+Procter & Gamble Co,2018,0.035429204
+Procter & Gamble Co,2017,0.036219096
+Procter & Gamble Co,2016,0.034877312
+Procter & Gamble Co,2015,0.035415764
+Procter & Gamble Co,2014,0.045290696
+Procter & Gamble Co,2013,0.045926737
+Procter & Gamble Co,2012,0.050354294
+Procter & Gamble Co,2011,0.070474459
+Travelers Companies Inc,2023,0.05658867
+Travelers Companies Inc,2022,0.055318972
+Travelers Companies Inc,2021,0.055306217
+Travelers Companies Inc,2020,0.057292754
+Travelers Companies Inc,2019,0.059060413
+Travelers Companies Inc,2018,0.052610114
+Travelers Companies Inc,2017,0.054033048
+Travelers Companies Inc,2016,0.056722799
+Travelers Companies Inc,2015,0.058119289
+Travelers Companies Inc,2014,0.056001219
+Travelers Companies Inc,2013,0.051697516
+Travelers Companies Inc,2012,0.054937571
+UnitedHealth Group Inc,2023,0.052173211
+UnitedHealth Group Inc,2022,0.055571193
+UnitedHealth Group Inc,2021,0.055860389
+UnitedHealth Group Inc,2020,0.059158245
+UnitedHealth Group Inc,2019,0.058088631
+UnitedHealth Group Inc,2018,0.057739873
+UnitedHealth Group Inc,2017,0.062856566
+UnitedHealth Group Inc,2016,0.06403308
+UnitedHealth Group Inc,2015,0.067472217
+UnitedHealth Group Inc,2014,0.064528798
+UnitedHealth Group Inc,2013,0.067871883
+UnitedHealth Group Inc,2012,0.071381091
+Salesforce Inc,2023,0.05399805
+Salesforce Inc,2022,0.058158848
+Salesforce Inc,2020,0.054942693
+Salesforce Inc,2019,0.055284128
+Salesforce Inc,2018,0.060621953
+Salesforce Inc,2017,0.058839571
+Salesforce Inc,2016,0.054768101
+Salesforce Inc,2015,0.05540517
+Salesforce Inc,2014,0.05617149
+Salesforce Inc,2013,0.068260526
+Salesforce Inc,2012,0.071035082
+Salesforce Inc,2011,0.037778662
+Verizon Communications Inc,2023,0.049565009
+Verizon Communications Inc,2022,0.045003995
+Verizon Communications Inc,2021,0.044407612
+Verizon Communications Inc,2020,0.038833205
+Verizon Communications Inc,2019,0.058896286
+Verizon Communications Inc,2018,0.055080923
+Verizon Communications Inc,2017,0.05686218
+Verizon Communications Inc,2016,0.061053882
+Verizon Communications Inc,2015,0.062925004
+Verizon Communications Inc,2014,0.061714202
+Verizon Communications Inc,2013,0.068614665
+Verizon Communications Inc,2012,0.07439205
+Visa Inc,2022,0.048008775
+Visa Inc,2021,0.050539691
+Visa Inc,2020,0.046850193
+Visa Inc,2019,0.054365643
+Visa Inc,2018,0.052380424
+Visa Inc,2017,0.050345486
+Visa Inc,2016,0.05062067
+Visa Inc,2015,0.042396922
+Visa Inc,2014,0.043745758
+Visa Inc,2013,0.047858458
+Visa Inc,2012,0.053350045
+Visa Inc,2011,0.054267729
+Walgreens Boots Alliance Inc,2022,0.027328841
+Walgreens Boots Alliance Inc,2021,0.023545359
+Walgreens Boots Alliance Inc,2020,0.051258509
+Walgreens Boots Alliance Inc,2019,0.050883034
+Walgreens Boots Alliance Inc,2018,0.050179106
+Walgreens Boots Alliance Inc,2017,0.050797073
+Walgreens Boots Alliance Inc,2016,0.05130852
+Walgreens Boots Alliance Inc,2015,0.051476719
+Walmart Inc,2023,0.048116709
+Walmart Inc,2022,0.048568784
+Walmart Inc,2021,0.051619602
+Walmart Inc,2020,0.046624272
+Walmart Inc,2019,0.044453279
+Walmart Inc,2018,0.046458614
+Walmart Inc,2017,0.037270257
+Walmart Inc,2016,0.040316738
+Walmart Inc,2015,0.04441199
+Walmart Inc,2014,0.040507272
+Walmart Inc,2013,0.042780958
+Walmart Inc,2012,0.042785451
+Walmart Inc,2011,0.045459511
+Walt Disney Co,2018,0.050023615
+Walt Disney Co,2017,0.051468969
+Walt Disney Co,2016,0.050849378
+Walt Disney Co,2015,0.050955823
+Walt Disney Co,2014,0.055235994
+Walt Disney Co,2013,0.055302755
+Walt Disney Co,2012,0.053668059
+Walt Disney Co,2011,0.052382784
+Dow Inc,2023,0.045306334
+Dow Inc,2022,0.042223502
+Dow Inc,2021,0.036703203
+Dow Inc,2020,0.042226817
